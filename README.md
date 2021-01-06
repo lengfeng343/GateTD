@@ -43,7 +43,7 @@ FB15k | 1024 | 0.05 | 2500 | 1200 | 0.03 | 0.001
     
 ### Requirements
 
-The codebase is implemented in Python 3.6.6. Required packages are:
+The codebase is implemented in Python 3.6.5. Required packages are:
 
     numpy      1.15.1
     pytorch    1.0.1
