@@ -3,8 +3,8 @@
 
 This codebase contains PyTorch implementation of the paper:
 
-> GateTD: Gated Tensor Decomposition for Knowledge Graph Completion
-> Ting Jia, Xinyan Wang, Kuo Yang and Xuezhong Zhou
+> GateTD: Gated Tensor Decomposition for Knowledge Graph Completion.
+> Ting Jia, Xinyan Wang, Kuo Yang and Xuezhong Zhou.
 
 ### Link Prediction Results
 
