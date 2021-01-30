@@ -30,7 +30,7 @@ Available datasets are:
     WN18
     FB15k
     
-To reproduce the results from the paper, use the following combinations of hyperparameters with `batch_size=128`:
+To reproduce the results from the paper, use the following combinations of hyperparameters:
 
 dataset | batch_size | learning_rate | edim | rdim | reg | init
 :--- | :---: | :---: | :---: | :---: | :---: | :---: 
